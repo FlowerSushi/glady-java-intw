@@ -7,7 +7,7 @@ import objects.deposits.DepositType;
 import java.util.Objects;
 
 public class Company {
-    Float balance;
+    private Float balance;
 
     public Company(Float balance) {
         this.balance = balance;
@@ -23,5 +23,9 @@ public class Company {
                 user.addDeposit(d);
             }
         }
+    }
+
+    public Float getBalance() {
+        return balance;
     }
 }

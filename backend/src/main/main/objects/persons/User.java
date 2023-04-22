@@ -23,4 +23,8 @@ public class User {
     public void addDeposit(Deposit deposit) {
         deposits.add(deposit);
     }
+
+    public List<Deposit> getDeposits() {
+        return deposits;
+    }
 }
