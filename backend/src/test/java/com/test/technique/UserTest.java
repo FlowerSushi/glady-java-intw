@@ -1,4 +1,6 @@
-import objects.persons.User;
+package com.test.technique;
+
+import com.test.technique.objects.people.User;
 import org.junit.jupiter.api.Test;
 
 public class UserTest {

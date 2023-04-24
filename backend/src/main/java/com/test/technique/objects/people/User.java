@@ -1,6 +1,6 @@
-package objects.persons;
+package com.test.technique.objects.people;
 
-import objects.deposits.Deposit;
+import com.test.technique.objects.deposits.Deposit;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

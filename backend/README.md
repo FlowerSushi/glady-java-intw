@@ -1,3 +1,8 @@
+# 1.0.0
+### Add
+* Implemented solution
+
+
 # Wedoogift Backend challenge
 You are interested in joining our team ? try to accomplish this challenge, we will be glad to see
 your code and give you feedback.
